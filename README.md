@@ -1,4 +1,4 @@
-# Biblioteca de integração PagSeguro em Ruby
+## Biblioteca de integração PagSeguro em Ruby
 
 [![Build Status](https://travis-ci.org/pagseguro/ruby.svg?branch=master)](https://travis-ci.org/pagseguro/ruby)
 [![Code Climate](https://codeclimate.com/github/pagseguro/ruby/badges/gpa.svg)](https://codeclimate.com/github/pagseguro/ruby)
